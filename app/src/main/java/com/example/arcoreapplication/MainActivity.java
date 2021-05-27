@@ -17,7 +17,7 @@ public class MainActivity extends AppCompatActivity {
 
     private ArFragment arFragment;
     private ModelRenderable modelRenderable;
-    private String MODEL = "https://github.com/google/model-viewer/blob/master/packages/shared-assets/models/Astronaut.glb?raw=true" ;
+    private String MODEL = "https://github.com/1712056/AR-Application/blob/master/Model/Pikachu.glb?raw=true" ;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
